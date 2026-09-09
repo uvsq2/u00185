@@ -1,0 +1,250 @@
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2018 Schwartzco Inc.
+        License: 1812-XWBAJH     
+*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-BlackItalic-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-BlackItalic-Web.woff') format('woff');*/
+/*  font-weight:  900;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-BlackItalic {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  900;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-Black-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-Black-Web.woff') format('woff');*/
+/*  font-weight:  900;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-Black {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  900;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-BoldItalic-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-BoldItalic-Web.woff') format('woff');*/
+/*  font-weight:  700;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-BoldItalic {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  700;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-Bold-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-Bold-Web.woff') format('woff');*/
+/*  font-weight:  700;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-Bold {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  700;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-MediumItalic-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-MediumItalic-Web.woff') format('woff');*/
+/*  font-weight:  500;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-MediumItalic {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  500;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+@font-face {
+  font-family: 'Darby Sans Web';
+  src: url('webfonts/DarbySans-Medium-Web.woff2') format('woff2'),
+       url('webfonts/DarbySans-Medium-Web.woff') format('woff');
+  font-weight:  500;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.DarbySans-Medium {
+  font-family: 'Darby Sans Web';
+  font-weight:  500;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-RegularItalic-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-RegularItalic-Web.woff') format('woff');*/
+/*  font-weight:  400;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-RegularItalic {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  400;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+@font-face {
+  font-family: 'Darby Sans Web';
+  src: url('webfonts/DarbySans-Regular-Web.woff2') format('woff2'),
+       url('webfonts/DarbySans-Regular-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+.DarbySans-Regular {
+  font-family: 'Darby Sans Web';
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+}
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-LightItalic-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-LightItalic-Web.woff') format('woff');*/
+/*  font-weight:  300;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-LightItalic {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  300;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-Light-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-Light-Web.woff') format('woff');*/
+/*  font-weight:  300;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-Light {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  300;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-XLightItalic-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-XLightItalic-Web.woff') format('woff');*/
+/*  font-weight:  200;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-XLightItalic {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  200;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-XLight-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-XLight-Web.woff') format('woff');*/
+/*  font-weight:  200;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-XLight {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  200;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-ThinItalic-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-ThinItalic-Web.woff') format('woff');*/
+/*  font-weight:  100;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-ThinItalic {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  100;*/
+/*  font-style:   italic;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+
+/*@font-face {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  src: url('webfonts/DarbySans-Thin-Web.woff2') format('woff2'),*/
+/*       url('webfonts/DarbySans-Thin-Web.woff') format('woff');*/
+/*  font-weight:  100;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
+/*.DarbySans-Thin {*/
+/*  font-family: 'Darby Sans Web';*/
+/*  font-weight:  100;*/
+/*  font-style:   normal;*/
+/*  font-stretch: normal;*/
+/*}*/
+
